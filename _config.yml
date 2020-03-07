@@ -86,8 +86,10 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
+include: 
+  - .nojekyll
 exclude:
+  - .DS_Store
 ignore:
 
 # Extensions
