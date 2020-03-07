@@ -102,5 +102,5 @@ theme: geek
 deploy:
   type: git
   repo: git@github.com:oeway/oeway.github.io.git
-  branch: gh-pages
+  branch: master
 
