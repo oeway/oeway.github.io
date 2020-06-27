@@ -95,7 +95,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: geek
+theme: simple-geek
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

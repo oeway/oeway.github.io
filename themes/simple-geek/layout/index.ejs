@@ -1,0 +1,35 @@
+<%- partial('_partial/nav') %>
+<div class="hd pages">
+    <br>
+    <% var homepage=_.find(site.pages.data,  ['path', 'about/index.html']); %>
+    <% if (homepage){ %>
+    <div class="page-content">
+        <%- homepage.content %>
+    </div>
+    <% } %>
+</div>
+<!-- 
+<div class="hd">
+    <% var last; %>
+    <% page.posts.each(function (post) { %>
+        <% var year = post.date.year(); %>
+        <% if (last != year){ %>
+            <div class="titlex">
+                <p><span class="jing">#</span>
+                    <%= year %>
+                </p>
+            </div>
+            <% last = year; %>
+        <% } %>
+        <a class="flink" href="<%- url_for(post.path) %>">
+            <div class="list">
+                <div class="postname">
+                    <%= post.title %>
+                </div>
+                <div class="posttime">
+                    <%- full_date(post.date, 'MMMM Do') %>
+                </div>
+            </div>
+        </a>
+    <% }) %>
+</div> -->

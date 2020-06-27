@@ -1,0 +1,18 @@
+logo_title: Wei OUYANG
+
+style: black
+
+favicon: /favicon.ico
+
+menu:
+  About Me: /about
+  Publications: /publications
+  Projects: /projects
+  Github: https://github.com/oeway
+
+valine:
+  appId: 
+  appKey: 
+
+highlight:
+  enable: false
