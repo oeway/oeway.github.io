@@ -5,11 +5,16 @@ date: 2020-03-07 22:50:28
 
 
 **Main projects**
-
 ## ImJoy
 An open-source computational platform for the deep learning era
 
 https://imjoy.io
+
+
+## ImageJ.JS
+ImageJ running in the browser
+
+https://ij.imjoy.io
 
 
 ## BioImage.IO
@@ -31,6 +36,12 @@ https://annapalm.pasteur.fr/
 A progressive web app for image visualization and annotation
 
 https://kaibu.org
+
+
+## Interactive Annotation and Segmentation
+Interactive biomedical segmentation tool powered by deep learning and ImJoy
+
+https://github.com/imjoy-team/imjoy-interactive-segmentation
 
 ## ImJoy-elFinder
 A file browser for remote managing remote files
