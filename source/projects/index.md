@@ -53,3 +53,9 @@ Running ImJoy plugins to Jupyter notebooks
 
 https://github.com/imjoy-team/imjoy-jupyter-extension
 
+## ImJoy-Slides
+
+A web tool for building interactive slides with ImJoy plugins
+
+https://slides.imjoy.io
+
