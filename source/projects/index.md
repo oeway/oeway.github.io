@@ -23,6 +23,11 @@ AI models for bioimage analysis
 https://bioimage.io
 
 
+## ShareLoc.XYZ
+An open platform for sharing single-molecule localization microscopy data
+
+https://shareloc.xyz
+
 ## ANNA-PALM
 Deep Learning accelerated single molecule localization microscopy
 
