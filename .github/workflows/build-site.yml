@@ -38,6 +38,7 @@ jobs:
     needs: build
     if: github.ref == 'refs/heads/main'
     steps:
+      - uses: actions/checkout@v2
       - name: Load saved build output
         uses: actions/download-artifact@v1
         with:
