@@ -1,7 +1,7 @@
 <%- partial('_partial/nav') %>
 <div class="hd pages">
     <br>
-    <% var homepage=_.find(site.pages.data,  ['path', 'about/index.html']); %>
+    <% var homepage=site.pages.data.find(page=>path.path==='about/index.html'); %>
     <% if (homepage){ %>
     <div class="page-content">
         <%- homepage.content %>
