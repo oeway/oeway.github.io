@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.kth.se/'
     company_logo: org-x
     location: Stockholm
-    date_start: '2020-01-01'
+    date_start: '2021-01-01'
     date_end: ''
     description:  |2-
       * BioImage Analysis
@@ -52,7 +52,7 @@ experience:
     company_logo: org-x
     location: Stockholm
     date_start: '2019-01-01'
-    date_end: ''
+    date_end: '2020-12-30'
     description:  |2-
       * BioImage Analysis
       * AI infrastructure
