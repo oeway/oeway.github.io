@@ -1,0 +1,8 @@
+# IDEs
+.idea/
+*.lock
+go.sum
+# Hugo
+resources/
+public/
+assets/jsconfig.json
