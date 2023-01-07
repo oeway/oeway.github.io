@@ -1,18 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Method, device, and computer program for improving the reconstruction of dense
-  super-resolution images from diffraction-limited images acquired by single molecule
-  localization microscopy
+title: Subcellular mapping of the protein landscape of SARS-CoV-2 infected cells for
+  target-centric drug repurposing
 subtitle: ''
 summary: ''
 authors:
-- Christophe Zimmer
-- Wei Ouyang
+- Jayasankar Mohanakrishnan Kaimal
+- Marianna Tampere
+- Trang H Le
+- Ulrika Axelsson
+- Hao Xu
+- Hanna Axelsson
+- Anna Backstrom
+- Francesco Marabita
+- Elisabeth Moussaud-Lamodiere
+- Duncan Njenda
+- ' others'
 tags: []
 categories: []
-date: '2020-08-01'
-lastmod: 2022-07-21T00:43:33+02:00
+date: '2022-01-01'
+lastmod: 2023-01-07T22:09:40+01:00
 featured: false
 draft: false
 
@@ -30,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-07T21:09:38.413780Z'
+publishDate: '2023-01-07T21:09:40.195731Z'
 publication_types:
-- '0'
+- '2'
 abstract: ''
-publication: ''
+publication: '*bioRxiv*'
 ---

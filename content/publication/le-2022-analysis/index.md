@@ -1,18 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Method, device, and computer program for improving the reconstruction of dense
-  super-resolution images from diffraction-limited images acquired by single molecule
-  localization microscopy
+title: Analysis of the human protein atlas weakly supervised single-cell classification
+  competition
 subtitle: ''
 summary: ''
 authors:
-- Christophe Zimmer
-- Wei Ouyang
+- Trang Le
+- Casper F Winsnes
+- Ulrika Axelsson
+- Hao Xu
+- Jayasankar Mohanakrishnan Kaimal
+- Diana Mahdessian
+- Shubin Dai
+- Ilya S Makarov
+- Vladislav Ostankovich
+- Yang Xu
+- ' others'
 tags: []
 categories: []
-date: '2020-08-01'
-lastmod: 2022-07-21T00:43:33+02:00
+date: '2022-01-01'
+lastmod: 2023-01-07T22:09:40+01:00
 featured: false
 draft: false
 
@@ -30,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-07T21:09:38.413780Z'
+publishDate: '2023-01-07T21:09:40.036377Z'
 publication_types:
-- '0'
+- '2'
 abstract: ''
-publication: ''
+publication: '*Nature Methods*'
 ---

@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests includes 
 
 #interests:
 #- Artificial Intelligence
@@ -62,9 +62,9 @@ social:
 #email: ""
 ---
 
-Wei OUYANG is a researcher in Prof. Lundberg’s group at the Science for Life Laboratory and KTH Royal Institute of Technology in Stockholm. He has a diverse background across several different fields including engineering, computer science and advanced microscopy imaging. 
+Wei OUYANG is an assistant professor at the applied physics department, KTH Royal Institute of Technology (Stockholm, Sweden). He is one of the [Data-Driven Life Science fellow](https://www.scilifelab.se/research/?filter=all#DDlsfellows) and currently leading a research group focusing on AI and data-driven method development for bioimage analysis and whole-cell modeling.
 
-Dr. Ouyang obtained his PhD in computational image analysis at Institut Pasteur, Paris where he mainly focuses on applying deep learning for super-resolution microscopy. During this period, he developed a deep learning method called ANNA-PALM which massively accelerates super-resolution localization microscopy by 100x. To address the challenges in the dissemination of AI tools, he developed an open-source computational platform, [ImJoy](https://imjoy.io), which makes deep learning tools easier to build and more accessible to the user. He is actively involved in consortiums and community activities for promoting more open, scalable, accessible and reproducible scientific tools. Among them, he is leading the development of the [BioImage Model Zoo](https://bioimage.io) for sharing AI models in bioimage analysis.
+Dr. Ouyang obtained his PhD in computational image analysis at Institut Pasteur, Paris where he mainly focuses on applying deep learning for super-resolution microscopy. During this period, he developed a deep learning method called ANNA-PALM which massively accelerates super-resolution localization microscopy by 100x. He spent 4 years at [Emma Lundberg](https://biox.stanford.edu/people/emma-lundberg)'s group as a postdoctoral researcher. To address the challenges in the dissemination of AI tools, he developed an open-source computational platform, [ImJoy](https://imjoy.io), which makes deep learning tools easier to build and more accessible to the user. He is actively involved in consortiums and community activities for promoting more open, scalable, accessible and reproducible scientific tools. Among them, he is leading the development of the [BioImage Model Zoo](https://bioimage.io) for sharing AI models in bioimage analysis.
 
 Dr. Ouyang is mainly interested in AI augmented microscopy imaging and data-driven whole-cell modeling.
 
