@@ -98,3 +98,9 @@ extensions:
     local_backend: false
   academicons:
     enable: false
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa
