@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ShareLoc�an open platform for sharing localization microscopy data
+title: ShareLoc-an open platform for sharing localization microscopy data
 subtitle: ''
 summary: ''
 authors:
@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2023-01-07T22:09:40+01:00
+lastmod: 2023-01-11T00:09:47+01:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-07T21:09:40.357688Z'
+publishDate: '2023-01-10T23:09:46.862581Z'
 publication_types:
 - '2'
 abstract: ''
