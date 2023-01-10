@@ -22,22 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor
+    company: KTH Royal Institute of Technology
+    company_url: 'https://www.kth.se/'
+    company_logo: kth
+    location: Stockholm
+    date_start: '2023-01-01'
+    date_end: ''
+    description:  |2-
+      * Augmented Microscopy
+      * BioImage Analysis
+      * AI-powered Data-driven Whole-cell Modeling
+
   - title: Researcher
     company: KTH Royal Institute of Technology
     company_url: 'https://www.kth.se/'
-    company_logo: org-x
+    company_logo: kth
     location: Stockholm
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2022-12-31'
     description:  |2-
       * BioImage Analysis
-      * Multi-omics data analysis
-      * AI-powered data-driven whole-cell modeling
+      * Multi-omics data integration and cell modeling
 
   - title: CEO
     company: Amun AI AB
     company_url: 'https://amun.ai'
-    company_logo: org-gc
+    company_logo: amun-ai
     location: Stockholm
     date_start: '2021-12-01'
     date_end: ''
@@ -49,7 +60,7 @@ experience:
   - title: Postdoctoral Researcher
     company: KTH Royal Institute of Technology
     company_url: 'https://www.kth.se/'
-    company_logo: org-x
+    company_logo: kth
     location: Stockholm
     date_start: '2019-01-01'
     date_end: '2020-12-30'
@@ -58,10 +69,10 @@ experience:
       * AI infrastructure
       * AI-powered data-driven whole-cell modeling
 
-  - title: Doctoral Student
+  - title: Ph.D Researcher
     company: Institut Pasteur
     company_url: 'https://pasteur.fr'
-    company_logo: org-gc
+    company_logo: pasteur
     location: Paris
     date_start: '2015-09-01'
     date_end: '2018-10-01'
@@ -72,7 +83,7 @@ experience:
   - title: Engineer
     company: Institut Pasteur
     company_url: 'https://pasteur.fr'
-    company_logo: org-gc
+    company_logo: pasteur
     location: Paris
     date_start: '2014-10-01'
     date_end: '2015-06-30'
