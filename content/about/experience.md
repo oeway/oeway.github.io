@@ -30,20 +30,9 @@ experience:
     date_start: '2023-01-01'
     date_end: ''
     description:  |2-
-      * Augmented Microscopy
-      * BioImage Analysis
-      * AI-powered Data-driven Whole-cell Modeling
-
-  - title: Researcher
-    company: KTH Royal Institute of Technology
-    company_url: 'https://www.kth.se/'
-    company_logo: kth
-    location: Stockholm
-    date_start: '2021-01-01'
-    date_end: '2022-12-31'
-    description:  |2-
-      * BioImage Analysis
-      * Multi-omics data integration and cell modeling
+      * Augmented microscopy
+      * BioImage analysis
+      * AI-powered data-driven whole-cell modeling
 
   - title: CEO
     company: Amun AI AB
@@ -53,9 +42,20 @@ experience:
     date_start: '2021-12-01'
     date_end: ''
     description: |2-        
-      * Research data managment
+      * Research data management
       * AI model and application serving
       * Privacy-preserving AI
+
+  - title: Researcher
+    company: KTH Royal Institute of Technology
+    company_url: 'https://www.kth.se/'
+    company_logo: kth
+    location: Stockholm
+    date_start: '2021-01-01'
+    date_end: '2022-12-31'
+    description:  |2-
+      * BioImage analysis
+      * Multi-omics data integration and whole-cell modeling
 
   - title: Postdoctoral Researcher
     company: KTH Royal Institute of Technology
@@ -65,9 +65,9 @@ experience:
     date_start: '2019-01-01'
     date_end: '2020-12-30'
     description:  |2-
-      * BioImage Analysis
-      * AI infrastructure
-      * AI-powered data-driven whole-cell modeling
+      * BioImage analysis
+      * AI infrastructure and software development
+      * Multi-omics data integration and whole-cell modeling
 
   - title: Ph.D Researcher
     company: Institut Pasteur
