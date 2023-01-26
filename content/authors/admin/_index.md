@@ -62,7 +62,7 @@ social:
 #email: ""
 ---
 
-Wei OUYANG is an assistant professor at the applied physics department, KTH Royal Institute of Technology (Stockholm, Sweden). He is one of the [Data-Driven Life Science fellow](https://www.scilifelab.se/research/?filter=all#DDlsfellows) and currently leading a research group focusing on AI and data-driven method development for bioimage analysis and whole-cell modeling.
+Wei OUYANG is an assistant professor in the department of applied physics at KTH Royal Institute of Technology (Stockholm, Sweden). He is currently leading a research group, the [AICell Lab](https://aicell.io), which is funded by the [Data-Driven Life Science fellow program](https://www.scilifelab.se/research/?filter=all#DDlsfellows). The group focuses on building AI systems for cell and molecular biology.
 
 Dr. Ouyang obtained his PhD in computational image analysis at Institut Pasteur, Paris where he mainly focuses on applying deep learning for super-resolution microscopy. During this period, he developed a deep learning method called ANNA-PALM which massively accelerates super-resolution localization microscopy by 100x. He spent 4 years at [Emma Lundberg](https://biox.stanford.edu/people/emma-lundberg)'s group as a postdoctoral researcher. To address the challenges in the dissemination of AI tools, he developed an open-source computational platform, [ImJoy](https://imjoy.io), which makes deep learning tools easier to build and more accessible to the user. He is actively involved in consortiums and community activities for promoting more open, scalable, accessible and reproducible scientific tools. Among them, he is leading the development of the [BioImage Model Zoo](https://bioimage.io) for sharing AI models in bioimage analysis.
 
