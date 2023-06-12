@@ -34,6 +34,18 @@ experience:
       * BioImage analysis
       * AI-powered data-driven whole-cell modeling
 
+  - title: Group Leader & DDLS Fellow
+    company: SciLifeLab
+    company_url: 'https://www.scilifelab.se/'
+    company_logo: scilifelab
+    location: Stockholm
+    date_start: '2023-01-01'
+    date_end: ''
+    description:  |2-
+      * Augmented microscopy
+      * BioImage analysis
+      * AI-powered data-driven whole-cell modeling
+
   - title: CEO
     company: Amun AI AB
     company_url: 'https://amun.ai'
@@ -45,6 +57,17 @@ experience:
       * Research data management
       * AI model and application serving
       * Privacy-preserving AI
+
+  - title: Visiting Scholar
+    company: Stanford University
+    company_url: 'https://www.stanford.edu/'
+    company_logo: stanford
+    location: California
+    date_start: '2022-06-08'
+    date_end: '2023-04-25'
+    description:  |2-
+      * Smart microscopy
+      * Whole-cell modeling
 
   - title: Researcher
     company: KTH Royal Institute of Technology
