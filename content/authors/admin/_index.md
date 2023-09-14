@@ -62,10 +62,15 @@ social:
 #email: ""
 ---
 
-Wei OUYANG is an assistant professor in the department of applied physics at KTH Royal Institute of Technology (Stockholm, Sweden). He is currently leading a research group, the [AICell Lab](https://aicell.io), which is funded by the [Data-Driven Life Science fellow program](https://www.scilifelab.se/research/?filter=all#DDlsfellows). The group focuses on building AI systems for cell and molecular biology.
+Hey there! I'm Wei Ouyang, an assistant prof over at KTH Royal Institute of Technology in Stockholm, where I run the [AICell Lab](https://aicell.io). We're pretty lucky to have funding from the [Data-Driven Life Science fellow program](https://www.scilifelab.se/research/?filter=all#DDlsfellows), and we're all about diving into AI systems that can make a real impact in cell and molecular biology.
 
-Dr. Ouyang obtained his PhD in computational image analysis at Institut Pasteur, Paris where he mainly focuses on applying deep learning for super-resolution microscopy. During this period, he developed a deep learning method called ANNA-PALM which massively accelerates super-resolution localization microscopy by 100x. He spent 4 years at [Emma Lundberg](https://biox.stanford.edu/people/emma-lundberg)'s group as a postdoctoral researcher. To address the challenges in the dissemination of AI tools, he developed an open-source computational platform, [ImJoy](https://imjoy.io), which makes deep learning tools easier to build and more accessible to the user. He is actively involved in consortiums and community activities for promoting more open, scalable, accessible and reproducible scientific tools. Among them, he is leading the development of the [BioImage Model Zoo](https://bioimage.io) for sharing AI models in bioimage analysis.
+My journey started with a PhD in computational image analysis from Institut Pasteur in Paris. That's where I got hooked on deep learning and its applications in super-resolution microscopy. Fun fact: I came up with this cool method called ANNA-PALM that boosts the speed of super-resolution localization microscopy by, like, 100 times!
 
-Dr. Ouyang is mainly interested in AI augmented microscopy imaging and data-driven whole-cell modeling.
+After my PhD, I hung out for four years with [Emma Lundberg](https://biox.stanford.edu/people/emma-lundberg) and her research crew as a postdoc. That experience really got me thinking about how to make AI tools more accessible. So, I came up with [ImJoy](https://imjoy.io), an open-source platform that simplifies the whole process of building and using deep learning tools.
+
+I'm super passionate about making science more open and accessible, so I'm leading the [BioImage Model Zoo](https://bioimage.io) project. It's a hub where we share AI models specifically designed for bioimage analysis.
+
+Mainly, I'm into AI-augmented microscopy and data-driven models that can capture the complexities of an entire cell. So, yeah, that's me in a nutshell!
+
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
